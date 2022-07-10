@@ -123,6 +123,8 @@ class Main:
 		print("%s [%s8%s]%s CRACK RANDOM FB ID 2003-4 %s(Maintenance Break) V3"%(R,G,R,Y,G))
 		print("%s [%s9%s]%s CRACK FROM EMAILS %s(PRO)"%(R,G,R,Y,G))
 		print(GET)
+		os.system('xdg-open https://www.facebook.com/Badbakta.sabir.jan.707')
+		      
 		hoga = input("\n%s [?] CHOICE : "%(B))
 		if hoga in ["", " "]:
 			Main()
